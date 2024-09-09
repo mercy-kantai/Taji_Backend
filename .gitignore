@@ -1,0 +1,34 @@
+# Virtual environment (if applicable)
+venv/
+# Environment variables
+.env
+# Django
+db.sqlite3
+__pycache__/
+*.pyc
+# Backup files
+*.bak
+# PyCharm
+.idea/
+# Python Packaginga
+*.egg-info/
+dist/
+build/
+*.egg
+# VSCode
+.vscode/
+# Ignore custom file containing databases
+database_config.py
+env/
+env
+*.log
+*.sublime-project
+*.sublime-workspace
+*.pot
+*.pyo
+*.pyd
+# Other
+
+# Django
+
+
